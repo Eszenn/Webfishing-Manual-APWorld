@@ -1,0 +1,362 @@
+[
+  {
+    "count": 1,
+    "name": "Simple Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Traveler's Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Collector's Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shining Collector's Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Opulent Collector's Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Glistening Collector's Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Radiant Collector's Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alpha Collector's Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spectral Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prosperous Fishing Rod",
+    "category": [
+      "Fishing Rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Worms",
+    "category": [
+      "Bait"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crickets",
+    "category": [
+      "Bait"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Leeches",
+    "category": [
+      "Bait"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Minnows",
+    "category": [
+      "Bait"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Squid",
+    "category": [
+      "Bait"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nautiluses",
+    "category": [
+      "Bait"
+    ],
+    "progression": true
+  },
+  {
+    "count": "9",
+    "name": "Progressive Fishing Rod",
+    "category": [
+      "Fishing Rods",
+      "progressive_rods"
+    ],
+    "progression": true
+  },
+  {
+    "count": "6",
+    "name": "Progressive Bait",
+    "category": [
+      "Bait",
+      "progressive_bait"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fly Hook",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Patient Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Jig",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Salty Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fresh Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Efficient Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Magnet Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Large Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Attractive Angler",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sparkling Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Double Hook",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Golden Hook",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shower Lure",
+    "category": [
+      "Hooks and Lures"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Rod Power Upgrade",
+    "category": [
+      "Rod Upgrades"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Rod Catch Speed Upgrade",
+    "category": [
+      "Rod Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Rod Catch Chance Upgrade",
+    "category": [
+      "Rod Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Rod Luck Upgrade",
+    "category": [
+      "Rod Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Freshwater Fishing Buddy",
+    "category": [
+      "Fishing Rods"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Saltwater Fishing Buddy",
+    "category": [
+      "Fishing Rods"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Buddy Speed Upgrade",
+    "category": [
+      "Rod Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Buddy Quality Upgrade",
+    "category": [
+      "Rod Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 297,
+    "name": "Cosmetic Voucher",
+    "category": [
+      "Filler Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 10,
+    "name": "$10 Camp Donation",
+    "category": [
+      "Camp Donations"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 10,
+    "name": "$100 Camp Donation",
+    "category": [
+      "Camp Donations"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 10,
+    "name": "$500 Camp Donation",
+    "category": [
+      "Camp Donations"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Victory",
+    "category": [],
+    "progression": true
+  }
+]

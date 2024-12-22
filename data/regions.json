@@ -1,0 +1,31 @@
+{
+  "Trash": {
+    "starting": false,
+    "connects_to": [],
+    "requires": "(|Simple Fishing Rod| OR |Progressive Fishing Rod:1|) AND (|Worms| OR |Progressive Bait:1|)"
+  },
+  "Normal Quality": {
+    "connects_to": [],
+    "requires": "|Worms|"
+  },
+  "Shining Quality": {
+    "connects_to": [],
+    "requires": "|Crickets| AND |Rod Power Upgrade:1|"
+  },
+  "Opulent Quality": {
+    "connects_to": [],
+    "requires": "|Leeches| AND |Rod Power Upgrade:2|"
+  },
+  "Glistening Quality": {
+    "connects_to": [],
+    "requires": "|Minnows| AND |Rod Power Upgrade:3|"
+  },
+  "Radiant Quality": {
+    "connects_to": [],
+    "requires": "|Squid| AND |Rod Power Upgrade:4|"
+  },
+  "Alpha Quality": {
+    "connects_to": [],
+    "requires": "|Nautiluses| AND |Rod Power Upgrade:5|"
+  }
+}

@@ -1,0 +1,4822 @@
+[
+  {
+    "name": "Alligator - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Alligator - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Alligator - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Alligator - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Alligator - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Alligator - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Catch an Alligator",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Catch Five Alligators",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Angelfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Angelfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Angelfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Angelfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Angelfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Angelfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Anomalocaris - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Anomalocaris - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Anomalocaris - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Anomalocaris - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Anomalocaris - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Anomalocaris - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Atlantic Salmon - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Atlantic Salmon - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Atlantic Salmon - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Atlantic Salmon - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Atlantic Salmon - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Atlantic Salmon - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Axolotl - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Axolotl - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Axolotl - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Axolotl - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Axolotl - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Axolotl - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Catch an Axolotl",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Catch Five Axolotls",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Bluefish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Bluefish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Bluefish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Bluefish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Bluefish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Bluefish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Bluegill - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Bluegill - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Bluegill - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Bluegill - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Bluegill - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Bluegill - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Bone - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Bone - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Bone - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Bone - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Bone - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Bone - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Bowfin - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Bowfin - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Bowfin - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Bowfin - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Bowfin - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Bowfin - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Branch - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Branch - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Branch - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Branch - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Branch - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Branch - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Bull Shark - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Bull Shark - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Bull Shark - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Bull Shark - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Bull Shark - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Bull Shark - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Catch a Bull Shark",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Catch Five Bull Sharks",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Carp - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Carp - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Carp - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Carp - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Carp - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Carp - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Catfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch a Catfish",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch Five Catfish",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Clownfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Clownfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Clownfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Clownfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Clownfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Clownfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Coelacanth - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Coelacanth - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Coelacanth - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Coelacanth - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Coelacanth - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Coelacanth - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Catch a Coelacanth",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Catch Five Coelacanths",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Crab - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crab - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crab - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crab - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crab - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crab - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crappie - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Crappie - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Crappie - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Crappie - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Crappie - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Crappie - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Crayfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crayfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crayfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crayfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crayfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Crayfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "CREATURE - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "CREATURE - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "CREATURE - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "CREATURE - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "CREATURE - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "CREATURE - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Diamond - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Diamond - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Diamond - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Diamond - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Diamond - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Diamond - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Dogfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Dogfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Dogfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Dogfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Dogfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Dogfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Drink Rings - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Drink Rings - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Drink Rings - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Drink Rings - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Drink Rings - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Drink Rings - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Drum - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Drum - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Drum - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Drum - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Drum - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Drum - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Eel - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Eel - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Eel - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Eel - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Eel - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Eel - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch an Eel",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch Five Eels",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Flounder - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Flounder - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Flounder - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Flounder - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Flounder - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Flounder - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Frog - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Frog - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Frog - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Frog - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Frog - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Frog - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Catch a Frog",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Catch Five Frogs",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Gar - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Gar - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Gar - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Gar - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Gar - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Gar - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch a Gar",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch Five Gars",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Golden Bass - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Bass - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Bass - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Bass - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Bass - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Bass - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Catch a Golden Bass",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Catch Five Golden Bass",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Manta Ray - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Manta Ray - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Manta Ray - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Manta Ray - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Manta Ray - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Golden Manta Ray - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Catch a Golden Manta Ray",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Catch Five Golden Manta Rays",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Goldfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Goldfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Goldfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Goldfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Goldfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Goldfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Great White Shark - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Great White Shark - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Great White Shark - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Great White Shark - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Great White Shark - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Great White Shark - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Catch a Great White Shark",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Catch Five Great White Sharks",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Grouper - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Grouper - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Grouper - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Grouper - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Grouper - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Grouper - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Guppy - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Guppy - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Guppy - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Guppy - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Guppy - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Guppy - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Hammerhead Shark - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Hammerhead Shark - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Hammerhead Shark - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Hammerhead Shark - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Hammerhead Shark - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Hammerhead Shark - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch a Hammerhead Shark",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch Five Hammerhead Sharks",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Helicoprion - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Helicoprion - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Helicoprion - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Helicoprion - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Helicoprion - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Helicoprion - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Catch a Helicoprion",
+    "region": [],
+    "category": [
+      "Miscellaneous",
+      "Quests"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Catch Five Helicoprions",
+    "region": [],
+    "category": [
+      "Miscellaneous",
+      "Quests"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Herring - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Herring - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Herring - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Herring - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Herring - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Herring - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Horseshoe Crab - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Horseshoe Crab - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Horseshoe Crab - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Horseshoe Crab - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Horseshoe Crab - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Horseshoe Crab - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "King Salmon - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "King Salmon - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "King Salmon - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "King Salmon - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "King Salmon - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "King Salmon - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch a King Salmon",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch Five King Salmon",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Koi - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Koi - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Koi - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Koi - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Koi - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Koi - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch a Koi",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch Five Koi",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Krill - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Krill - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Krill - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Krill - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Krill - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Krill - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Largemouth Bass - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Largemouth Bass - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Largemouth Bass - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Largemouth Bass - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Largemouth Bass - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Largemouth Bass - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Leech - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Leech - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Leech - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Leech - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Leech - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Leech - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch a Leech",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch Five Leeches",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Leedsichthys - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Leedsichthys - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Leedsichthys - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Leedsichthys - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Leedsichthys - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Leedsichthys - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Catch a Leedsichthys",
+    "region": [],
+    "category": [
+      "Miscellaneous",
+      "Quests"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Catch Five Leedsichthys",
+    "region": [],
+    "category": [
+      "Miscellaneous",
+      "Quests"
+    ],
+    "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
+  },
+  {
+    "name": "Lionfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Lionfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Lionfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Lionfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Lionfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Lionfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Lobster - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Lobster - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Lobster - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Lobster - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Lobster - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Lobster - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Man O' War - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Man O' War - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Man O' War - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Man O' War - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Man O' War - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Man O' War - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch a Man O' War",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch Five Men O' War",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Manta Ray - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Manta Ray - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Manta Ray - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Manta Ray - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Manta Ray - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Manta Ray - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch a Manta Ray",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch Five Manta Rays",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Marlin - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Marlin - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Marlin - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Marlin - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Marlin - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Marlin - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Mooneye - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Mooneye - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Mooneye - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Mooneye - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Mooneye - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Mooneye - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Catch a Mooneye",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Catch Five Mooneyes",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Muskellunge - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Muskellunge - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Muskellunge - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Muskellunge - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Muskellunge - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Muskellunge - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch a Muskellunge",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch Five Muskellunge",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Octopus - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Octopus - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Octopus - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Octopus - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Octopus - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Octopus - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch an Octopus",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch Five Octopi",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Old Boot - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Old Boot - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Old Boot - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Old Boot - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Old Boot - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Old Boot - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Oyster - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Oyster - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Oyster - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Oyster - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Oyster - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Oyster - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Perch - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Perch - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Perch - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Perch - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Perch - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Perch - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Pike - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Pike - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Pike - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Pike - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Pike - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Pike - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Plastic Bag - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Plastic Bag - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Plastic Bag - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Plastic Bag - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Plastic Bag - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Plastic Bag - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Pupfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Pupfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Pupfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Pupfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Pupfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Pupfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Catch a Pupfish",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Catch Five Pupfish",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
+  },
+  {
+    "name": "Rainbow Trout - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Rainbow Trout - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Rainbow Trout - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Rainbow Trout - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Rainbow Trout - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Rainbow Trout - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Salmon - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Salmon - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Salmon - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Salmon - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Salmon - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Salmon - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Sawfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Sawfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Sawfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Sawfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Sawfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Sawfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch a Sawfish",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch Five Sawfish",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Sea Turtle - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Sea Turtle - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Sea Turtle - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Sea Turtle - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Sea Turtle - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Sea Turtle - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch a Sea Turtle",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch Five Sea Turtles",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Seahorse - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Seahorse - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Seahorse - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Seahorse - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Seahorse - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Seahorse - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Catch a Seahorse",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Catch Five Seahorses",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Shrimp - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Shrimp - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Shrimp - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Shrimp - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Shrimp - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Shrimp - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Snail - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Snail - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Snail - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Snail - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Snail - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Snail - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Soda Can - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Soda Can - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Soda Can - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Soda Can - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Soda Can - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Soda Can - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Squid - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Squid - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Squid - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Squid - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Squid - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Squid - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch a Squid",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Catch Five Squids",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
+  },
+  {
+    "name": "Sting Ray - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sting Ray - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sting Ray - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sting Ray - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sting Ray - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sting Ray - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sturgeon - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sturgeon - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sturgeon - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sturgeon - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sturgeon - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sturgeon - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch a Sturgeon",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Catch Five Sturgeons",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
+  },
+  {
+    "name": "Sunfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Sunfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Sunfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Sunfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Sunfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Sunfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Swordfish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Swordfish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Swordfish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Swordfish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Swordfish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Swordfish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Catch a Swordfish",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Catch Five Swordfish",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Toad - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Toad - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Toad - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Toad - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Toad - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Toad - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch a Toad",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch Five Toads",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Tuna - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Tuna - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Tuna - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Tuna - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Tuna - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Tuna - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
+  },
+  {
+    "name": "Turtle - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Turtle - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Turtle - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Turtle - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Turtle - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Turtle - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch a Turtle",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Catch Five Turtles",
+    "region": [],
+    "category": [
+      "Freshwater",
+      "Quests"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Unidentified Fish Object - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Unidentified Fish Object - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Unidentified Fish Object - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Unidentified Fish Object - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Unidentified Fish Object - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Unidentified Fish Object - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Catch an Unidentified Fish Object",
+    "region": [],
+    "category": [
+      "Miscellaneous",
+      "Quests"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Catch Five Unidentified Fish Objects",
+    "region": [],
+    "category": [
+      "Miscellaneous",
+      "Quests"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Walleye - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Freshwater",
+      "Normal Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Walleye - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Freshwater",
+      "Shining Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Walleye - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Freshwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Walleye - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Freshwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Walleye - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Freshwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Walleye - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Freshwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
+  },
+  {
+    "name": "Weed - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Miscellaneous",
+      "Normal Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Weed - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Miscellaneous",
+      "Shining Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Weed - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Miscellaneous",
+      "Opulent Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Weed - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Miscellaneous",
+      "Glistening Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Weed - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Miscellaneous",
+      "Radiant Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Weed - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Miscellaneous",
+      "Alpha Quality"
+    ],
+    "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
+  },
+  {
+    "name": "Whale - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Whale - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Whale - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Whale - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Whale - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Whale - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Catch a Whale",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Catch Five Whales",
+    "region": [],
+    "category": [
+      "Saltwater",
+      "Quests"
+    ],
+    "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
+  },
+  {
+    "name": "Wolffish - Normal Quality",
+    "region": "Normal Quality",
+    "category": [
+      "Saltwater",
+      "Normal Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Wolffish - Shining Quality",
+    "region": "Shining Quality",
+    "category": [
+      "Saltwater",
+      "Shining Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Wolffish - Opulent Quality",
+    "region": "Opulent Quality",
+    "category": [
+      "Saltwater",
+      "Opulent Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Wolffish - Glistening Quality",
+    "region": "Glistening Quality",
+    "category": [
+      "Saltwater",
+      "Glistening Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Wolffish - Radiant Quality",
+    "region": "Radiant Quality",
+    "category": [
+      "Saltwater",
+      "Radiant Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Wolffish - Alpha Quality",
+    "region": "Alpha Quality",
+    "category": [
+      "Saltwater",
+      "Alpha Quality"
+    ],
+    "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
+  },
+  {
+    "name": "Reach Camp Tier 4",
+    "category": [
+      "~~~ Goal ~~~"
+    ],
+    "requires": "|$10 Camp Donation:10| AND |$100 Camp Donation:10| AND |$500 Camp Donation:10|"
+  },
+  {
+    "name": "Catch All Four Rare Fish",
+    "category": [
+      "~~~ Goal ~~~"
+    ],
+    "requires": "|@Fishing Rods:10|"
+  }
+]

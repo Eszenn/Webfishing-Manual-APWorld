@@ -1,0 +1,11 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "webfishing",
+  "creator": "Eszenn",
+  "filler_item_name": "Generic Fish",
+  "starting_items": [
+    {
+      "items": ["Simple Fishing Rod", "Worms"]
+    }
+  ]
+}
