@@ -4,7 +4,7 @@ A manual APWorld for implementning WEBFISHING into the Archipelago randomizer.
 ## Locations
 The following are all locations that must be checked:
 - Catching a fish (one location for each quality, so 6 locations per fish)
-- Completing quests (Unending quests excluded)
+- Completing quests (Endless quests excluded)
 
 ## Items
 The following are all items that may be received:
