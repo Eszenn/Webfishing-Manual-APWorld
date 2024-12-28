@@ -3,6 +3,8 @@ from worlds.AutoWorld import World
 from ..Helpers import clamp, get_items_with_value
 from BaseClasses import MultiWorld, CollectionState
 
+from .Helpers import get_required_fish
+
 import re
 
 # Sometimes you have a requirement that is just too messy or repetitive to write out with boolean logic.
@@ -28,22 +30,43 @@ def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, 
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
 
-def HasEnoughFish(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-        number_of_fish = {
-            "Simple Fishing Rod": 0,
-            "Traveler's Fishing Rod": 0,
-            "Collector's Fishing Rod": 0,
-            "Shining Collector's Fishing Rod": 0,
-            "Opulent Collector's Fishing Rod": 0,
-            "Glistening Collector's Fishing Rod": 0,
-            "Radiant Collector's Fishing Rod": 0,
-            "Alpha Collector's Fishing Rod": 0,
-            "Prosperous Fishing Rod": 0,
-            "Spectral Rod": 0
-        }
+def hasEnoughFish(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
 
-        available_fish = 0
-        for rod, fish in number_of_fish.items():
+    progressive_rods = world.options.progressive_rods.value
+
+    available_fish = 0
+
+    fish_by_rod = {
+        "Simple Fishing Rod": 7,
+        "Traveler's Fishing Rod": 15,
+        "Collector's Fishing Rod": 14,
+        "Shining Collector's Fishing Rod": 12,
+        "Opulent Collector's Fishing Rod": 6,
+        "Glistening Collector's Fishing Rod": 7,
+        "Radiant Collector's Fishing Rod": 4,
+        "Alpha Collector's Fishing Rod": 4,
+        "Prosperous Fishing Rod": 4,
+        "Spectral Rod": 5
+    }
+
+    if progressive_rods:
+        number_of_rods = state.count("Progressive Fishing Rod", player)
+        fish_numbers = list(fish_by_rod.values())
+
+        for i in range(number_of_rods):
+            for bait in world.item_name_groups["Bait"]:
+                if state.has(bait, player):
+                    available_fish += fish_numbers[i]
+
+        if state.has("Spectral Rod", player):
+            for bait in world.item_name_groups["Bait"]:
+                if state.has(bait, player):
+                    available_fish += fish_by_rod["Spectral Rod"]
+
+    else:
+        for rod, fish in fish_by_rod.items():
             for bait in world.item_name_groups["Bait"]:
                 if state.has_all([rod, bait], player):
                     available_fish += fish
+
+    return available_fish >= get_required_fish(world)

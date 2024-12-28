@@ -14,6 +14,13 @@ def after_load_progressive_item_file(progressive_item_table: list) -> list:
 # called after the locations.json file has been loaded, before any location loading or processing has occurred
 # if you need access to the locations after processing to add ids, etc., you should use the hooks in World.py
 def after_load_location_file(location_table: list) -> list:
+    for percent in range(20, 100):
+        location_table.append({
+            "name": f"Complete {percent}% of the Journal",
+            "category": ["~~~ Goal ~~~"],
+            "requires": "{hasEnoughFish()}"
+        })
+
     return location_table
 
 # called after the locations.json file has been loaded, before any location loading or processing has occurred

@@ -17,6 +17,9 @@ from ..Helpers import is_option_enabled, get_option_value
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
 
+from .Rules import hasEnoughFish
+from .Helpers import get_max_fish, get_required_fish
+
 ########################################################################################
 ## Order of method calls when the world generates:
 ##    1. create_regions - Creates regions and locations
@@ -46,12 +49,33 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     locationNamesToRemove = [] # List of location names
 
     # Add your code here to calculate which locations to remove
+    victory_condition = get_option_value(multiworld, player, "victory_condition")
+    excluded_fish = world.options.excluded_fish.value
+
+    for fish in excluded_fish:
+        if fish in ["Golden Bass", "Golden Manta Ray", "Leedsichthys", "Diamond"] and victory_condition == 1:
+            continue
+
+        for location in world.get_locations():
+            if fish in location.name:
+                locationNamesToRemove.append(location.name)
+
+
+    victory_condition = world.options.victory_condition.value
+    percent = world.options.required_fish_percent.value
+
+    victory_name = ["Reach Camp Tier 4", "Catch All Four Rare Fish", f"Complete {percent}% of the Journal"][victory_condition]
+
+    for location in world.location_name_groups["~~~ Goal ~~~"]:
+        if location != victory_name:
+            locationNamesToRemove.append(location)
 
     for region in multiworld.regions:
         if region.player == player:
             for location in list(region.locations):
                 if location.name in locationNamesToRemove:
                     region.locations.remove(location)
+
     if hasattr(multiworld, "clear_location_cache"):
         multiworld.clear_location_cache()
 
@@ -69,9 +93,53 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
 
+    if world.options.victory_condition.value == 0:
+        extra_donations = world.options.extra_donations.value
+
+        for donation in world.item_name_groups["Camp Donations"]:
+            for i in range(extra_donations):
+                item_pool.append(world.create_item(donation))
+
+    progressive_rods = world.options.progressive_rods.value
+
+    if progressive_rods or world.options.victory_condition.value == 1:
+        for item in world.item_name_groups["non_progressive_rods"]:
+            itemNamesToRemove.append(item)
+
+        multiworld.push_precollected(world.create_item("Progressive Fishing Rod"))
+
+    else:
+        for i in range(8):
+            itemNamesToRemove.append("Progressive Fishing Rod")
+
+        multiworld.push_precollected(world.create_item("Simple Fishing Rod"))
+
+    progressive_bait = world.options.progressive_bait.value
+
+    if progressive_bait:
+        for item in world.item_name_groups["non_progressive_bait"]:
+            itemNamesToRemove.append(item)
+
+        multiworld.push_precollected(world.create_item("Progressive Bait"))
+
+    else:
+        for i in range(5):
+            itemNamesToRemove.append("Progressive Bait")
+
+        multiworld.push_precollected(world.create_item("Worms"))
+
     for itemName in itemNamesToRemove:
+        print(itemName)
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
+
+    victory_condition = world.options.victory_condition.value
+    percent = world.options.required_fish_percent.value
+
+    victory_name = ["Reach Camp Tier 4", "Catch All Four Rare Fish", f"Complete {percent}% of the Journal"][victory_condition]
+
+    victory_location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == victory_name)
+    victory_location.place_locked_item(world.create_item("Victory"))
 
     return item_pool
 
@@ -133,6 +201,12 @@ def before_fill_slot_data(slot_data: dict, world: World, multiworld: MultiWorld,
 
 # This is called after slot data is set and provides the slot data at the time, in case you want to check and modify it after Manual is done with it
 def after_fill_slot_data(slot_data: dict, world: World, multiworld: MultiWorld, player: int) -> dict:
+    if world.options.victory_condition.value == 2:
+        required_fish = get_required_fish(world)
+        max_fish = get_max_fish(world)
+
+        slot_data["Required Fish"] = f"{required_fish}/{max_fish}"
+
     return slot_data
 
 # This is called right at the end, in case you want to write stuff to the spoiler log

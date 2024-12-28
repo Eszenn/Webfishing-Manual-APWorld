@@ -1,6 +1,6 @@
 [
   {
-    "count": 1,
+    "count": 0,
     "name": "Simple Fishing Rod",
     "category": [
       "Fishing Rods"
@@ -11,7 +11,8 @@
     "count": 1,
     "name": "Traveler's Fishing Rod",
     "category": [
-      "Fishing Rods"
+      "Fishing Rods",
+      "non_progressive_rods"
     ],
     "progression": true
   },
@@ -19,7 +20,8 @@
     "count": 1,
     "name": "Collector's Fishing Rod",
     "category": [
-      "Fishing Rods"
+      "Fishing Rods",
+      "non_progressive_rods"
     ],
     "progression": true
   },
@@ -27,7 +29,8 @@
     "count": 1,
     "name": "Shining Collector's Fishing Rod",
     "category": [
-      "Fishing Rods"
+      "Fishing Rods",
+      "non_progressive_rods"
     ],
     "progression": true
   },
@@ -35,7 +38,8 @@
     "count": 1,
     "name": "Opulent Collector's Fishing Rod",
     "category": [
-      "Fishing Rods"
+      "Fishing Rods",
+      "non_progressive_rods"
     ],
     "progression": true
   },
@@ -43,7 +47,8 @@
     "count": 1,
     "name": "Glistening Collector's Fishing Rod",
     "category": [
-      "Fishing Rods"
+      "Fishing Rods",
+      "non_progressive_rods"
     ],
     "progression": true
   },
@@ -51,7 +56,8 @@
     "count": 1,
     "name": "Radiant Collector's Fishing Rod",
     "category": [
-      "Fishing Rods"
+      "Fishing Rods",
+      "non_progressive_rods"
     ],
     "progression": true
   },
@@ -59,13 +65,14 @@
     "count": 1,
     "name": "Alpha Collector's Fishing Rod",
     "category": [
-      "Fishing Rods"
+      "Fishing Rods",
+      "non_progressive_rods"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Spectral Fishing Rod",
+    "name": "Spectral Rod",
     "category": [
       "Fishing Rods"
     ],
@@ -75,12 +82,13 @@
     "count": 1,
     "name": "Prosperous Fishing Rod",
     "category": [
-      "Fishing Rods"
+      "Fishing Rods",
+      "non_progressive_rods"
     ],
     "progression": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Worms",
     "category": [
       "Bait"
@@ -91,7 +99,8 @@
     "count": 1,
     "name": "Crickets",
     "category": [
-      "Bait"
+      "Bait",
+      "non_progressive_bait"
     ],
     "progression": true
   },
@@ -99,7 +108,8 @@
     "count": 1,
     "name": "Leeches",
     "category": [
-      "Bait"
+      "Bait",
+      "non_progressive_bait"
     ],
     "progression": true
   },
@@ -107,7 +117,8 @@
     "count": 1,
     "name": "Minnows",
     "category": [
-      "Bait"
+      "Bait",
+      "non_progressive_bait"
     ],
     "progression": true
   },
@@ -115,7 +126,8 @@
     "count": 1,
     "name": "Squid",
     "category": [
-      "Bait"
+      "Bait",
+      "non_progressive_bait"
     ],
     "progression": true
   },
@@ -123,12 +135,13 @@
     "count": 1,
     "name": "Nautiluses",
     "category": [
-      "Bait"
+      "Bait",
+      "non_progressive_bait"
     ],
     "progression": true
   },
   {
-    "count": "9",
+    "count": "8",
     "name": "Progressive Fishing Rod",
     "category": [
       "Fishing Rods",
@@ -137,7 +150,7 @@
     "progression": true
   },
   {
-    "count": "6",
+    "count": "5",
     "name": "Progressive Bait",
     "category": [
       "Bait",
@@ -331,7 +344,7 @@
   },
   {
     "count": 10,
-    "name": "$10 Camp Donation",
+    "name": "10 Dollar Camp Donation",
     "category": [
       "Camp Donations"
     ],
@@ -339,7 +352,7 @@
   },
   {
     "count": 10,
-    "name": "$100 Camp Donation",
+    "name": "100 Dollar Camp Donation",
     "category": [
       "Camp Donations"
     ],
@@ -347,14 +360,14 @@
   },
   {
     "count": 10,
-    "name": "$500 Camp Donation",
+    "name": "500 Dollar Camp Donation",
     "category": [
       "Camp Donations"
     ],
     "progression_skip_balancing": true
   },
   {
-    "count": 1,
+    "count": 0,
     "name": "Victory",
     "category": [],
     "progression": true

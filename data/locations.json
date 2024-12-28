@@ -1,5 +1,19 @@
 [
   {
+    "name": "Reach Camp Tier 4",
+    "category": [
+      "~~~ Goal ~~~"
+    ],
+    "requires": "|10 Dollar Camp Donation:10| AND |100 Dollar Camp Donation:10| AND |500 Dollar Camp Donation:10|"
+  },
+  {
+    "name": "Catch All Four Rare Fish",
+    "category": [
+      "~~~ Goal ~~~"
+    ],
+    "requires": "|Progressive Fishing Rod:9|"
+  },
+  {
     "name": "Alligator - Normal Quality",
     "region": "Normal Quality",
     "category": [
@@ -55,7 +69,6 @@
   },
   {
     "name": "Catch an Alligator",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -64,7 +77,6 @@
   },
   {
     "name": "Catch Five Alligators",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -289,7 +301,6 @@
   },
   {
     "name": "Catch an Axolotl",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -298,7 +309,6 @@
   },
   {
     "name": "Catch Five Axolotls",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -631,7 +641,6 @@
   },
   {
     "name": "Catch a Bull Shark",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -640,7 +649,6 @@
   },
   {
     "name": "Catch Five Bull Sharks",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -757,7 +765,6 @@
   },
   {
     "name": "Catch a Catfish",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -766,7 +773,6 @@
   },
   {
     "name": "Catch Five Catfish",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -883,7 +889,6 @@
   },
   {
     "name": "Catch a Coelacanth",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -892,7 +897,6 @@
   },
   {
     "name": "Catch Five Coelacanths",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -1387,7 +1391,6 @@
   },
   {
     "name": "Catch an Eel",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -1396,7 +1399,6 @@
   },
   {
     "name": "Catch Five Eels",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -1513,7 +1515,6 @@
   },
   {
     "name": "Catch a Frog",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -1522,7 +1523,6 @@
   },
   {
     "name": "Catch Five Frogs",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -1585,7 +1585,6 @@
   },
   {
     "name": "Catch a Gar",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -1594,7 +1593,6 @@
   },
   {
     "name": "Catch Five Gars",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -1657,7 +1655,6 @@
   },
   {
     "name": "Catch a Golden Bass",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -1666,7 +1663,6 @@
   },
   {
     "name": "Catch Five Golden Bass",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -1729,7 +1725,6 @@
   },
   {
     "name": "Catch a Golden Manta Ray",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -1738,7 +1733,6 @@
   },
   {
     "name": "Catch Five Golden Manta Rays",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -1855,7 +1849,6 @@
   },
   {
     "name": "Catch a Great White Shark",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -1864,7 +1857,6 @@
   },
   {
     "name": "Catch Five Great White Sharks",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -2035,7 +2027,6 @@
   },
   {
     "name": "Catch a Hammerhead Shark",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -2044,7 +2035,6 @@
   },
   {
     "name": "Catch Five Hammerhead Sharks",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -2107,7 +2097,6 @@
   },
   {
     "name": "Catch a Helicoprion",
-    "region": [],
     "category": [
       "Miscellaneous",
       "Quests"
@@ -2116,7 +2105,6 @@
   },
   {
     "name": "Catch Five Helicoprions",
-    "region": [],
     "category": [
       "Miscellaneous",
       "Quests"
@@ -2287,7 +2275,6 @@
   },
   {
     "name": "Catch a King Salmon",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -2296,7 +2283,6 @@
   },
   {
     "name": "Catch Five King Salmon",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -2359,7 +2345,6 @@
   },
   {
     "name": "Catch a Koi",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -2368,7 +2353,6 @@
   },
   {
     "name": "Catch Five Koi",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -2539,7 +2523,6 @@
   },
   {
     "name": "Catch a Leech",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -2548,7 +2531,6 @@
   },
   {
     "name": "Catch Five Leeches",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -2611,7 +2593,6 @@
   },
   {
     "name": "Catch a Leedsichthys",
-    "region": [],
     "category": [
       "Miscellaneous",
       "Quests"
@@ -2620,7 +2601,6 @@
   },
   {
     "name": "Catch Five Leedsichthys",
-    "region": [],
     "category": [
       "Miscellaneous",
       "Quests"
@@ -2791,7 +2771,6 @@
   },
   {
     "name": "Catch a Man O' War",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -2799,8 +2778,7 @@
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
   {
-    "name": "Catch Five Men O' War",
-    "region": [],
+    "name": "Catch Five Man O' Wars",
     "category": [
       "Saltwater",
       "Quests"
@@ -2863,7 +2841,6 @@
   },
   {
     "name": "Catch a Manta Ray",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -2872,7 +2849,6 @@
   },
   {
     "name": "Catch Five Manta Rays",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -2989,7 +2965,6 @@
   },
   {
     "name": "Catch a Mooneye",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -2998,7 +2973,6 @@
   },
   {
     "name": "Catch Five Mooneyes",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -3061,7 +3035,6 @@
   },
   {
     "name": "Catch a Muskellunge",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -3070,7 +3043,6 @@
   },
   {
     "name": "Catch Five Muskellunge",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -3133,7 +3105,6 @@
   },
   {
     "name": "Catch an Octopus",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -3141,8 +3112,7 @@
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
   {
-    "name": "Catch Five Octopi",
-    "region": [],
+    "name": "Catch Five Octopuses",
     "category": [
       "Saltwater",
       "Quests"
@@ -3475,7 +3445,6 @@
   },
   {
     "name": "Catch a Pupfish",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -3484,7 +3453,6 @@
   },
   {
     "name": "Catch Five Pupfish",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -3655,7 +3623,6 @@
   },
   {
     "name": "Catch a Sawfish",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -3664,7 +3631,6 @@
   },
   {
     "name": "Catch Five Sawfish",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -3727,7 +3693,6 @@
   },
   {
     "name": "Catch a Sea Turtle",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -3736,7 +3701,6 @@
   },
   {
     "name": "Catch Five Sea Turtles",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -3799,7 +3763,6 @@
   },
   {
     "name": "Catch a Seahorse",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -3808,7 +3771,6 @@
   },
   {
     "name": "Catch Five Seahorses",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -4033,7 +3995,6 @@
   },
   {
     "name": "Catch a Squid",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -4042,7 +4003,6 @@
   },
   {
     "name": "Catch Five Squids",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -4159,7 +4119,6 @@
   },
   {
     "name": "Catch a Sturgeon",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -4168,7 +4127,6 @@
   },
   {
     "name": "Catch Five Sturgeons",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -4285,7 +4243,6 @@
   },
   {
     "name": "Catch a Swordfish",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -4294,7 +4251,6 @@
   },
   {
     "name": "Catch Five Swordfish",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -4357,7 +4313,6 @@
   },
   {
     "name": "Catch a Toad",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -4366,7 +4321,6 @@
   },
   {
     "name": "Catch Five Toads",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -4483,7 +4437,6 @@
   },
   {
     "name": "Catch a Turtle",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -4492,7 +4445,6 @@
   },
   {
     "name": "Catch Five Turtles",
-    "region": [],
     "category": [
       "Freshwater",
       "Quests"
@@ -4555,7 +4507,6 @@
   },
   {
     "name": "Catch an Unidentified Fish Object",
-    "region": [],
     "category": [
       "Miscellaneous",
       "Quests"
@@ -4564,7 +4515,6 @@
   },
   {
     "name": "Catch Five Unidentified Fish Objects",
-    "region": [],
     "category": [
       "Miscellaneous",
       "Quests"
@@ -4735,7 +4685,6 @@
   },
   {
     "name": "Catch a Whale",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -4744,7 +4693,6 @@
   },
   {
     "name": "Catch Five Whales",
-    "region": [],
     "category": [
       "Saltwater",
       "Quests"
@@ -4806,17 +4754,9 @@
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
   {
-    "name": "Reach Camp Tier 4",
-    "category": [
-      "~~~ Goal ~~~"
-    ],
-    "requires": "|$10 Camp Donation:10| AND |$100 Camp Donation:10| AND |$500 Camp Donation:10|"
-  },
-  {
-    "name": "Catch All Four Rare Fish",
-    "category": [
-      "~~~ Goal ~~~"
-    ],
-    "requires": "|@Fishing Rods:10|"
+    "name": "Game Completion",
+    "category": [],
+    "requires": "|Victory|",
+    "victory": true
   }
 ]

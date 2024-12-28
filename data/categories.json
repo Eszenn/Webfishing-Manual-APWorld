@@ -1,1 +1,17 @@
-{}
+{
+  "progressive_rods": {
+    "hidden": true
+  },
+
+  "progressive_bait": {
+    "hidden": true
+  },
+
+  "non_progressive_rods": {
+    "hidden": true
+  },
+
+  "non_progressive_bait": {
+    "hidden": true
+  }
+}
