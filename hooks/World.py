@@ -49,7 +49,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     locationNamesToRemove = [] # List of location names
 
     # Add your code here to calculate which locations to remove
-    victory_condition = get_option_value(multiworld, player, "victory_condition")
+    victory_condition = world.options.victory_condition.value
     excluded_fish = world.options.excluded_fish.value
 
     for fish in excluded_fish:
@@ -99,6 +99,11 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         for donation in world.item_name_groups["Camp Donations"]:
             for i in range(extra_donations):
                 item_pool.append(world.create_item(donation))
+
+    else:
+        for donation in world.item_name_groups["Camp Donations"]:
+            for i in range(10):
+                itemNamesToRemove.append(donation)
 
     progressive_rods = world.options.progressive_rods.value
 
