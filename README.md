@@ -1,5 +1,6 @@
 # WEBFISHING Manual APWorld
-A manual APWorld for implementning WEBFISHING into the Archipelago randomizer.
+A manual APWorld for implementning WEBFISHING into the Archipelago randomizer.  
+This manual assumes the use of the ArchipealgoTweaks mod, which can be found [here](https://github.com/Eszenn/Webfishing-Archipelago-Tweaks).
 
 ## Locations
 The following are all locations that must be checked:
