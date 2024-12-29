@@ -56,7 +56,8 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
         if fish in ["Golden Bass", "Golden Manta Ray", "Leedsichthys", "Diamond"] and victory_condition == 1:
             continue
 
-        for location in world.get_locations():
+        # change to world.get_locations() for Archipelago 6.0
+        for location in multiworld.get_locations(player):
             if fish in location.name:
                 locationNamesToRemove.append(location.name)
 
