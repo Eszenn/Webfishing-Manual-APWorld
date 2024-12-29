@@ -27,6 +27,7 @@ Requires you to catch all 4 "Rare Fish" - Being the Golden Bass, Golden Manta Ra
 ### Fish 'em All
 Requires completing a designated percentage of the journal (40% by default). The required percentage can be set from 20% to 100% in your YAML.
 - The actual number of fish required varies depending on how many fish have been excluded.
+- You can see how many fish are required be checking your slot data
 
 ## Custom YAML Options
 ### Victory Condition
