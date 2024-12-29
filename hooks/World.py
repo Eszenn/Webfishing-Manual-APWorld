@@ -135,7 +135,6 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         multiworld.push_precollected(world.create_item("Worms"))
 
     for itemName in itemNamesToRemove:
-        print(itemName)
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
 

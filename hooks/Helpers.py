@@ -24,11 +24,9 @@ def before_is_location_enabled(multiworld: MultiWorld, player: int, location: Ma
 def get_max_fish(world: World) -> int:
     excluded_fish_count = 0
     for fish in world.options.excluded_fish.value:
-        for location in world.get_locations():
-            if fish in location.name and "catch" not in location.name:
-                excluded_fish_count += 1
+        excluded_fish_count += 6
 
-    return 468 - excluded_fish_count
+    return (468 - excluded_fish_count)
 
 def get_required_fish(world: World) -> int:
     return round(get_max_fish(world) * world.options.required_fish_percent / 100)
