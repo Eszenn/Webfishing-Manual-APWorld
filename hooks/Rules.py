@@ -49,24 +49,24 @@ def hasEnoughFish(world: World, multiworld: MultiWorld, state: CollectionState, 
         "Spectral Rod": 5
     }
 
+    bait_count = state.count_group("Bait", player)
+
     if progressive_rods:
         number_of_rods = state.count("Progressive Fishing Rod", player)
         fish_numbers = list(fish_by_rod.values())
 
         for i in range(number_of_rods):
-            for bait in world.item_name_groups["Bait"]:
-                if state.has(bait, player):
-                    available_fish += fish_numbers[i]
+            for bait in range(bait_count):
+                available_fish += fish_numbers[i]
 
         if state.has("Spectral Rod", player):
-            for bait in world.item_name_groups["Bait"]:
-                if state.has(bait, player):
-                    available_fish += fish_by_rod["Spectral Rod"]
+            for bait in range(bait_count):
+                available_fish += fish_by_rod["Spectral Rod"]
 
     else:
         for rod, fish in fish_by_rod.items():
-            for bait in world.item_name_groups["Bait"]:
-                if state.has_all([rod, bait], player):
+            for bait in range(bait_count):
+                if state.has(rod, player):
                     available_fish += fish
 
     return available_fish >= get_required_fish(world)
