@@ -271,7 +271,7 @@
     "useful": true
   },
   {
-    "count": "5",
+    "count": "8",
     "name": "Rod Power Upgrade",
     "category": [
       "Rod Upgrades"
@@ -298,6 +298,14 @@
     "count": "5",
     "name": "Rod Luck Upgrade",
     "category": [
+      "Rod Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": "9",
+    "name": "Bait Capacity Upgrade",
+    "category":[
       "Rod Upgrades"
     ],
     "useful": true
