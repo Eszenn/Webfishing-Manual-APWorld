@@ -13,5 +13,17 @@
 
   "non_progressive_bait": {
     "hidden": true
+  },
+
+  "Freshwater": {
+    "hidden": true
+  },
+
+  "Saltwater": {
+    "hidden": true
+  },
+
+  "Miscellaneous": {
+    "hidden": true
   }
 }
