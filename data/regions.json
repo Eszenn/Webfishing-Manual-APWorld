@@ -7,31 +7,31 @@
   "Normal Quality": {
     "starting": true,
     "connects_to": [],
-    "requires": "|Worms|"
+    "requires": "(|Worms| OR |Progressive Bait:1|)"
   },
   "Shining Quality": {
     "starting": true,
     "connects_to": [],
-    "requires": "|Crickets| AND |Rod Power Upgrade:1|"
-  },
-  "Opulent Quality": {
-    "starting": true,
-    "connects_to": [],
-    "requires": "|Leeches| AND |Rod Power Upgrade:2|"
+    "requires": "(|Crickets| OR |Progressive Bait:2|) AND |Rod Power Upgrade:1|"
   },
   "Glistening Quality": {
     "starting": true,
     "connects_to": [],
-    "requires": "|Minnows| AND |Rod Power Upgrade:3|"
+    "requires": "(|Leeches| OR |Progressive Bait:3|)AND |Rod Power Upgrade:2|"
+  },
+  "Opulent Quality": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "(|Minnows| OR |Progressive Bait:4|) AND |Rod Power Upgrade:3|"
   },
   "Radiant Quality": {
     "starting": true,
     "connects_to": [],
-    "requires": "|Squid| AND |Rod Power Upgrade:4|"
+    "requires": "(|Squid| OR |Progressive Bait:5|) AND |Rod Power Upgrade:4|"
   },
   "Alpha Quality": {
     "starting": true,
     "connects_to": [],
-    "requires": "|Nautiluses| AND |Rod Power Upgrade:5|"
+    "requires": "(|Nautiluses| OR |Progressive Bait:6|) AND |Rod Power Upgrade:5|"
   }
 }
