@@ -1120,6 +1120,22 @@
     "requires": "|Spectral Rod|"
   },
   {
+    "name": "Catch a CREATURE",
+    "category": [
+      "Miscellaneous",
+      "Quests"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
+    "name": "Catch Five CREATUREs",
+    "category": [
+      "Miscellaneous",
+      "Quests"
+    ],
+    "requires": "|Spectral Rod|"
+  },
+  {
     "name": "Diamond - Normal Quality",
     "region": "Normal Quality",
     "category": [
