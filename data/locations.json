@@ -18,7 +18,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -27,7 +27,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -36,7 +36,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -45,7 +45,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -54,7 +54,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -63,7 +63,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -88,7 +88,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -97,7 +97,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -106,7 +106,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -115,7 +115,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -124,7 +124,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -133,7 +133,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -142,7 +142,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -151,7 +151,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -160,7 +160,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -169,7 +169,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -178,7 +178,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -187,7 +187,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -196,7 +196,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -205,7 +205,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -214,7 +214,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -223,7 +223,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -232,7 +232,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -241,7 +241,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -250,7 +250,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -259,7 +259,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -268,7 +268,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -277,7 +277,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -286,7 +286,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -295,7 +295,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -320,7 +320,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -329,7 +329,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -338,7 +338,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -347,7 +347,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -356,7 +356,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -365,7 +365,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -374,7 +374,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -383,7 +383,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -392,7 +392,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -401,7 +401,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -410,7 +410,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -419,7 +419,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -428,7 +428,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -437,7 +437,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -446,7 +446,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -455,7 +455,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -464,7 +464,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -473,7 +473,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -482,7 +482,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -491,7 +491,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -500,7 +500,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -509,7 +509,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -518,7 +518,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -527,7 +527,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -536,7 +536,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -545,7 +545,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -554,7 +554,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -563,7 +563,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -572,7 +572,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -581,7 +581,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -590,7 +590,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -599,7 +599,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -608,7 +608,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -617,7 +617,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -626,7 +626,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -635,7 +635,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Freshwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -660,7 +660,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -669,7 +669,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -678,7 +678,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -687,7 +687,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -696,7 +696,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -705,7 +705,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -714,7 +714,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -723,7 +723,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -732,7 +732,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -741,7 +741,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -750,7 +750,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -759,7 +759,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -784,7 +784,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -793,7 +793,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -802,7 +802,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -811,7 +811,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -820,7 +820,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -829,7 +829,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -838,7 +838,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -847,7 +847,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -856,7 +856,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -865,7 +865,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -874,7 +874,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -883,7 +883,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -908,7 +908,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -917,7 +917,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -926,7 +926,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -935,7 +935,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -944,7 +944,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -953,7 +953,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -962,7 +962,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -971,7 +971,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -980,7 +980,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -989,7 +989,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -998,7 +998,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1007,7 +1007,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1016,7 +1016,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1025,7 +1025,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1034,7 +1034,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1043,7 +1043,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1052,7 +1052,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1061,7 +1061,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1070,7 +1070,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Void"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -1079,7 +1079,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Void"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -1088,7 +1088,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Void"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -1097,7 +1097,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Void"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -1106,7 +1106,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Void"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -1115,7 +1115,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Void"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -1124,7 +1124,8 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater",
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1133,7 +1134,8 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater",
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1142,7 +1144,8 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater",
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1151,7 +1154,8 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater",
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1160,7 +1164,8 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater",
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1169,7 +1174,8 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater",
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1178,7 +1184,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1187,7 +1193,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1196,7 +1202,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1205,7 +1211,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1214,7 +1220,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1223,7 +1229,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1232,7 +1238,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -1241,7 +1247,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -1250,7 +1256,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -1259,7 +1265,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -1268,7 +1274,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -1277,7 +1283,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -1286,7 +1292,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1295,7 +1301,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1304,7 +1310,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1313,7 +1319,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1322,7 +1328,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1331,7 +1337,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1340,7 +1346,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1349,7 +1355,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1358,7 +1364,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1367,7 +1373,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1376,7 +1382,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1385,7 +1391,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -1410,7 +1416,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1419,7 +1425,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1428,7 +1434,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1437,7 +1443,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1446,7 +1452,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1455,7 +1461,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1464,7 +1470,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1473,7 +1479,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1482,7 +1488,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1491,7 +1497,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1500,7 +1506,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1509,7 +1515,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1534,7 +1540,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -1543,7 +1549,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -1552,7 +1558,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -1561,7 +1567,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -1570,7 +1576,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -1579,7 +1585,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -1604,7 +1610,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1613,7 +1619,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1622,7 +1628,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1631,7 +1637,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1640,7 +1646,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1649,7 +1655,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Freshwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1674,7 +1680,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1683,7 +1689,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1692,7 +1698,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1701,7 +1707,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1710,7 +1716,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1719,7 +1725,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Saltwater"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -1744,7 +1750,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1753,7 +1759,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1762,7 +1768,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1771,7 +1777,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1780,7 +1786,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1789,7 +1795,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1798,7 +1804,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Saltwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -1807,7 +1813,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Saltwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -1816,7 +1822,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Saltwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -1825,7 +1831,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Saltwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -1834,7 +1840,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Saltwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -1843,7 +1849,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Saltwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -1868,7 +1874,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1877,7 +1883,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1886,7 +1892,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1895,7 +1901,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1904,7 +1910,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1913,7 +1919,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -1922,7 +1928,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1931,7 +1937,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1940,7 +1946,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1949,7 +1955,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1958,7 +1964,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1967,7 +1973,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -1976,7 +1982,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -1985,7 +1991,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -1994,7 +2000,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2003,7 +2009,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2012,7 +2018,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2021,7 +2027,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2046,7 +2052,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2055,7 +2061,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2064,7 +2070,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2073,7 +2079,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2082,7 +2088,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2091,7 +2097,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2116,7 +2122,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2125,7 +2131,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2134,7 +2140,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2143,7 +2149,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2152,7 +2158,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2161,7 +2167,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2170,7 +2176,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2179,7 +2185,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2188,7 +2194,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2197,7 +2203,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2206,7 +2212,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2215,7 +2221,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Rain"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -2224,7 +2230,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2233,7 +2239,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2242,7 +2248,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2251,7 +2257,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2260,7 +2266,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2269,7 +2275,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2294,7 +2300,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2303,7 +2309,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2312,7 +2318,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2321,7 +2327,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2330,7 +2336,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2339,7 +2345,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2364,7 +2370,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2373,7 +2379,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2382,7 +2388,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2391,7 +2397,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2400,7 +2406,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2409,7 +2415,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2418,7 +2424,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2427,7 +2433,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2436,7 +2442,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2445,7 +2451,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2454,7 +2460,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2463,7 +2469,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -2472,7 +2478,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2481,7 +2487,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2490,7 +2496,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2499,7 +2505,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2508,7 +2514,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2517,7 +2523,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -2542,7 +2548,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Rain"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -2551,7 +2557,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Rain"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -2560,7 +2566,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Rain"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -2569,7 +2575,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Rain"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -2578,7 +2584,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Rain"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -2587,7 +2593,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Prosperous Fishing Rod"
+      "Prosperous Rod - Rain"
     ],
     "requires": "|Prosperous Fishing Rod| OR |Progressive Fishing Rod:9|"
   },
@@ -2612,7 +2618,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2621,7 +2627,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2630,7 +2636,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2639,7 +2645,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2648,7 +2654,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2657,7 +2663,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2666,7 +2672,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2675,7 +2681,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2684,7 +2690,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2693,7 +2699,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2702,7 +2708,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2711,7 +2717,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -2720,7 +2726,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2729,7 +2735,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2738,7 +2744,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2747,7 +2753,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2756,7 +2762,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2765,7 +2771,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2790,7 +2796,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2799,7 +2805,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2808,7 +2814,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2817,7 +2823,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2826,7 +2832,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2835,7 +2841,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2860,7 +2866,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2869,7 +2875,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2878,7 +2884,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2887,7 +2893,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2896,7 +2902,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2905,7 +2911,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -2914,7 +2920,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -2923,7 +2929,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -2932,7 +2938,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -2941,7 +2947,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -2950,7 +2956,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -2959,7 +2965,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -2984,7 +2990,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -2993,7 +2999,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3002,7 +3008,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3011,7 +3017,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3020,7 +3026,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3029,7 +3035,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Freshwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3054,7 +3060,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3063,7 +3069,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3072,7 +3078,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3081,7 +3087,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3090,7 +3096,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3099,7 +3105,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3124,7 +3130,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3133,7 +3139,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3142,7 +3148,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3151,7 +3157,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3160,7 +3166,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3169,7 +3175,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3178,7 +3184,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3187,7 +3193,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3196,7 +3202,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3205,7 +3211,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3214,7 +3220,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3223,7 +3229,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3232,7 +3238,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3241,7 +3247,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3250,7 +3256,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3259,7 +3265,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3268,7 +3274,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3277,7 +3283,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3286,7 +3292,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3295,7 +3301,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3304,7 +3310,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3313,7 +3319,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3322,7 +3328,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3331,7 +3337,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -3340,7 +3346,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3349,7 +3355,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3358,7 +3364,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3367,7 +3373,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3376,7 +3382,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3385,7 +3391,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3394,7 +3400,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -3403,7 +3409,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -3412,7 +3418,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -3421,7 +3427,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -3430,7 +3436,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -3439,7 +3445,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Radiant Collector's Fishing Rod"
+      "Radiant Collector's Rod - Freshwater"
     ],
     "requires": "|Radiant Collector's Fishing Rod| OR |Progressive Fishing Rod:7|"
   },
@@ -3464,7 +3470,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3473,7 +3479,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3482,7 +3488,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3491,7 +3497,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3500,7 +3506,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3509,7 +3515,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3518,7 +3524,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3527,7 +3533,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3536,7 +3542,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3545,7 +3551,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3554,7 +3560,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3563,7 +3569,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3572,7 +3578,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -3581,7 +3587,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -3590,7 +3596,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -3599,7 +3605,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -3608,7 +3614,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -3617,7 +3623,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -3642,7 +3648,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3651,7 +3657,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3660,7 +3666,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3669,7 +3675,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3678,7 +3684,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3687,7 +3693,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3712,7 +3718,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3721,7 +3727,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3730,7 +3736,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3739,7 +3745,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3748,7 +3754,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3757,7 +3763,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3782,7 +3788,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3791,7 +3797,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3800,7 +3806,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3809,7 +3815,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3818,7 +3824,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3827,7 +3833,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Saltwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -3836,7 +3842,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3845,7 +3851,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3854,7 +3860,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3863,7 +3869,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3872,7 +3878,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3881,7 +3887,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Freshwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -3890,7 +3896,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3899,7 +3905,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3908,7 +3914,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3917,7 +3923,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3926,7 +3932,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3935,7 +3941,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -3944,7 +3950,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3953,7 +3959,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3962,7 +3968,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3971,7 +3977,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3980,7 +3986,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -3989,7 +3995,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Opulent Collector's Fishing Rod"
+      "Opulent Collector's Rod - Saltwater"
     ],
     "requires": "|Opulent Collector's Fishing Rod| OR |Progressive Fishing Rod:6|"
   },
@@ -4014,7 +4020,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4023,7 +4029,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4032,7 +4038,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4041,7 +4047,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4050,7 +4056,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4059,7 +4065,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Saltwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4068,7 +4074,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4077,7 +4083,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4086,7 +4092,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4095,7 +4101,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4104,7 +4110,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4113,7 +4119,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Shining Collector's Fishing Rod"
+      "Shining Collector's Rod - Freshwater"
     ],
     "requires": "|Shining Collector's Fishing Rod| OR |Progressive Fishing Rod:4|"
   },
@@ -4138,7 +4144,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4147,7 +4153,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4156,7 +4162,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4165,7 +4171,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4174,7 +4180,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4183,7 +4189,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4192,7 +4198,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4201,7 +4207,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4210,7 +4216,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4219,7 +4225,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4228,7 +4234,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4237,7 +4243,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4262,7 +4268,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4271,7 +4277,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4280,7 +4286,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4289,7 +4295,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4298,7 +4304,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4307,7 +4313,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4332,7 +4338,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4341,7 +4347,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4350,7 +4356,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4359,7 +4365,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4368,7 +4374,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4377,7 +4383,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Collector's Fishing Rod"
+      "Collector's Rod - Saltwater"
     ],
     "requires": "|Collector's Fishing Rod| OR |Progressive Fishing Rod:3|"
   },
@@ -4386,7 +4392,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4395,7 +4401,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4404,7 +4410,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4413,7 +4419,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4422,7 +4428,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4431,7 +4437,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Freshwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4456,7 +4462,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Meteor"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -4465,7 +4471,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Meteor"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -4474,7 +4480,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Meteor"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -4483,7 +4489,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Meteor"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -4492,7 +4498,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Meteor"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -4501,7 +4507,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Spectral Rod"
+      "Spectral Rod - Meteor"
     ],
     "requires": "|Spectral Rod|"
   },
@@ -4526,7 +4532,7 @@
     "region": "Normal Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -4535,7 +4541,7 @@
     "region": "Shining Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -4544,7 +4550,7 @@
     "region": "Glistening Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -4553,7 +4559,7 @@
     "region": "Opulent Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -4562,7 +4568,7 @@
     "region": "Radiant Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -4571,7 +4577,7 @@
     "region": "Alpha Quality",
     "category": [
       "Freshwater",
-      "Traveler's Fishing Rod"
+      "Traveler's Rod - Freshwater"
     ],
     "requires": "|Traveler's Fishing Rod| OR |Progressive Fishing Rod:2|"
   },
@@ -4580,7 +4586,7 @@
     "region": "Normal Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -4589,7 +4595,7 @@
     "region": "Shining Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -4598,7 +4604,7 @@
     "region": "Glistening Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -4607,7 +4613,7 @@
     "region": "Opulent Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -4616,7 +4622,7 @@
     "region": "Radiant Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -4625,7 +4631,7 @@
     "region": "Alpha Quality",
     "category": [
       "Miscellaneous",
-      "Simple Fishing Rod"
+      "Simple Rod"
     ],
     "requires": "|Simple Fishing Rod| OR |Progressive Fishing Rod:1|"
   },
@@ -4634,7 +4640,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -4643,7 +4649,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -4652,7 +4658,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -4661,7 +4667,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -4670,7 +4676,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -4679,7 +4685,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Alpha Collector's Fishing Rod"
+      "Alpha Collector's Rod - Saltwater"
     ],
     "requires": "|Alpha Collector's Fishing Rod| OR |Progressive Fishing Rod:8|"
   },
@@ -4704,7 +4710,7 @@
     "region": "Normal Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4713,7 +4719,7 @@
     "region": "Shining Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4722,7 +4728,7 @@
     "region": "Glistening Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4731,7 +4737,7 @@
     "region": "Opulent Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4740,7 +4746,7 @@
     "region": "Radiant Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
@@ -4749,7 +4755,7 @@
     "region": "Alpha Quality",
     "category": [
       "Saltwater",
-      "Glistening Collector's Fishing Rod"
+      "Glistening Collector's Rod - Saltwater"
     ],
     "requires": "|Glistening Collector's Fishing Rod| OR |Progressive Fishing Rod:5|"
   },
