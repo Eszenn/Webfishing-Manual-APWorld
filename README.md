@@ -45,8 +45,8 @@ If enabled, fishing rods will be made progressive. The Spectral Rod is excluded.
 2. Traveler's Fishing Rod
 3. Collector's Fishing Rod
 4. Shining Collector's Fishing Rod
-5. Opulent Collector's Fishing Rod
-6. Glistening Collector's Fishing Rod
+5. Glistening Collector's Fishing Rod
+6. Opulent Collector's Fishing Rod
 7. Radiant Collector's Fishing Rod
 8. Alpha Collector's Fishing Rod
 9. Prosperous Fishing Rod
